@@ -1,0 +1,588 @@
+{
+  "2023": {
+    "12": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-december-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-december-2023/435005",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Dec2023.zip",
+      "everef": "Missing"
+    },
+    "11": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-november-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-november-2023/431204",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Nov2023.zip",
+      "everef": "Missing"
+    },
+    "10": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-october-2023/426652",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Oct2023.zip",
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Oct2023.zip"
+    },
+    "09": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-september-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-september-2023/423242",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Sep2023.zip",
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Sep2023.zip"
+    },
+    "08": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-august-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-august-2023/418995",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Aug2023.zip",
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Aug2023.zip"
+    },
+    "07": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-july-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-july-2023/415457",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jul2023.zip",
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Jul2023.zip"
+    },
+    "06": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-june-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-june-2023/411508",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jun2023.zip",
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Jun2023.zip"
+    },
+    "05": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-may-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-may-2023/408264",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_May2023.zip",
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_May2023.zip"
+    },
+    "04": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-april-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-april-2023/405135",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Apr2023.zip",
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Apr2023.zip"
+    },
+    "03": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-march-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-march-2023/401340",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Mar2023.zip",
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Mar2023.zip"
+    },
+    "02": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-february-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-february-2023/397977",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Feb2023.zip",
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Feb2023.zip"
+    },
+    "01": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-january-2023",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-january-2023/394095",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jan2023.zip",
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Jan2023.zip"
+    }
+  },
+  "2022": {
+    "12": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-december-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-december-2022/391128",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Dec2022.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_Dec2022.zip"
+    },
+    "11": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-november-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-november-2022/386796",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Nov2022.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_Nov2022.zip"
+    },
+    "10": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-october-2022/382878",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Oct2022-updated.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_Oct2022-updated.zip"
+    },
+    "09": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-september-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-september-2022/379356",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Sep2022-Updated.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_Sep2022-Updated.zip"
+    },
+    "08": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-august-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-august-2022/375514",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Aug2022.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_Aug2022.zip"
+    },
+    "07": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-july-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-july-2022/372150",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jul2022.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_Jul2022.zip"
+    },
+    "06": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-june-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-june-2022/368731",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jun2022.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_Jun2022.zip"
+    },
+    "05": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-may-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-may-2022/366302",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_May2022.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_May2022.zip"
+    },
+    "04": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-april-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-april-2022/362442",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Apr2022.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_Apr2022.zip"
+    },
+    "03": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-march-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-march-2022/357654",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Mar2022.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_Mar2022.zip"
+    },
+    "02": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-february-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-february-2022/353797",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Feb2022.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/EVEOnline_MER_Feb2022.zip"
+    },
+    "01": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-january-2022",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-january-2022/350801",
+      "data": "https://web.ccpgamescdn.com/aws/community/January_2022_MER.zip",
+      "everef": "https://data.everef.net/ccp/mer/2022/January_2022_MER.zip"
+    }
+  },
+  "2021": {
+    "12": {
+      "news": "https://www.eveonline.com/news/view/updated-monthly-economic-report-december-2021",
+      "forum": "https://forums.eveonline.com/t/updated-monthly-economic-report-december-2021/346649",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Dec2021_Updated.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Dec2021_Updated.zip"
+    },
+    "11": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-november-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-november-2021/345313",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Nov2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Nov2021.zip"
+    },
+    "10": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-october-2021/337324",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Oct2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Oct2021.zip"
+    },
+    "09": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-september-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-september-2021/331188",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Sept2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Sept2021.zip"
+    },
+    "08": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-august-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-august-2021/328383",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Aug2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Aug2021.zip"
+    },
+    "07": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-july-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-july-2021/324158",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jul2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Jul2021.zip"
+    },
+    "06": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-june-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-june-2021/320891",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jun2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Jun2021.zip"
+    },
+    "05": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-may-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-may-2021/317458",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_May2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_May2021.zip"
+    },
+    "04": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-april-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-april-2021/312795",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Apr2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Apr2021.zip"
+    },
+    "03": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-march-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-march-2021/306900",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Mar2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Mar2021.zip"
+    },
+    "02": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-february-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-february-2021/302188",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Feb2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Feb2021.zip"
+    },
+    "01": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-january-2021",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-january-2021/296167",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jan2021.zip",
+      "everef": "https://data.everef.net/ccp/mer/2021/EVEOnline_MER_Jan2021.zip"
+    }
+  },
+  "2020": {
+    "12": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-december-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-december-2020/291031",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Dec2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Dec2020.zip"
+    },
+    "11": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-november-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-november-2020/285722",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Nov2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Nov2020.zip"
+    },
+    "10": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-october-2020/280727",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Oct2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Oct2020.zip"
+    },
+    "09": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-september-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-september-2020/274627",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Sep2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Sep2020.zip"
+    },
+    "08": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-august-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-august-2020/268791",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Aug2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Aug2020.zip"
+    },
+    "07": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-july-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-july-2020/262501",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jul2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Jul2020.zip"
+    },
+    "06": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-june-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-june-2020/256461",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jun2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Jun2020.zip"
+    },
+    "05": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-may-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-may-2020/251289",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_May2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_May2020.zip"
+    },
+    "04": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-april-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-april-2020/243162",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Apr2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Apr2020.zip"
+    },
+    "03": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-march-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-march-2020/234727",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Mar2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Mar2020.zip"
+    },
+    "02": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-february-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-february-2020/227761",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Feb2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Feb2020.zip"
+    },
+    "01": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-january-2020",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-january-2020/221176",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jan2020.zip",
+      "everef": "https://data.everef.net/ccp/mer/2020/EVEOnline_MER_Jan2020.zip"
+    }
+  },
+  "2019": {
+    "12": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-december-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-december-2019/211693",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Dec2019b.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Dec2019.zip"
+    },
+    "11": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-november-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-november-2019/205439",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Nov2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Nov2019.zip"
+    },
+    "10": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-october-2019/199551",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Oct2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Oct2019.zip"
+    },
+    "09": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-september-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-september-2019/193798",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Sep2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Sep2019.zip"
+    },
+    "08": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-august-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-august-2019/188127",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Aug2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Aug2019.zip"
+    },
+    "07": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-july-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-july-2019/185170",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jul2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Jul2019.zip"
+    },
+    "06": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-june-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-ecomomic-report-june-2019/176110",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jun2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Jun2019.zip"
+    },
+    "05": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-may-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-may-2019/168028",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_May2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_May2019.zip"
+    },
+    "04": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-april-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-april-2019/159409",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Apr2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Apr2019.zip"
+    },
+    "03": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-march-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-march-2019/152031",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Mar2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Mar2019.zip"
+    },
+    "02": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-february-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-february-2019/145325",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Feb2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Feb2019.zip"
+    },
+    "01": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-january-2019",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-january-2019/140888",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jan2019.zip",
+      "everef": "https://data.everef.net/ccp/mer/2019/EVEOnline_MER_Jan2019.zip"
+    }
+  },
+  "2018": {
+    "12": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-december-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-december-2018/131958",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Dec2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Dec2018.zip"
+    },
+    "11": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-november-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-november-2018/124869",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Nov2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Nov2018.zip"
+    },
+    "10": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-october-2018/120632",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Oct2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Oct2018.zip"
+    },
+    "09": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-september-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-september-2018/120631",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Sep2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Sep2018.zip"
+    },
+    "08": {
+      "news": "https://www.eveonline.com/news/view/monthy-economic-report-august-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-august-2018/105420",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Aug2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Aug2018.zip"
+    },
+    "07": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-july-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-july-2018/96596",
+      "data": "http://web.ccpgamescdn.com/newssystem/media/73619/1/EVEOnline_MER_Jul2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Jul2018.zip"
+    },
+    "06": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-june-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-june-2018/88722",
+      "data": "https://web.ccpgamescdn.com/newssystem/media/73619/1/EVEOnline_MER_Jun2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Jun2018.zip"
+    },
+    "05": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-may-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-may-2018/82487",
+      "data": "https://www.eveonline.com/news/view/web.ccpgamescdn.com/newssystem/media/73619/1/EVEOnline_MER_May2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_May2018.zip"
+    },
+    "04": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-april-2018",
+      "forum": "https://forums.eveonline.com/t/monthy-economic-report-april-2018/75073",
+      "data": "http://content.eveonline.com/www/newssystem/media/73592/1/EVEOnline_MER_Apr2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Apr2018.zip"
+    },
+    "03": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-march-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-march-2018/68167",
+      "data": "http://web.ccpgamescdn.com/newssystem/media/73619/1/EVEOnline_MER_Mar2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Mar2018.zip"
+    },
+    "02": {
+      "news": "https://www.eveonline.com/article/p5bttu/monthly-economic-report-february-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-february-2018/62113",
+      "data": "http://web.ccpgamescdn.com/newssystem/media/73619/1/EVEOnline_MER_Feb2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Feb2018.zip"
+    },
+    "01": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-january-2018",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-january-2018/54956",
+      "data": "http://web.ccpgamescdn.com/newssystem/media/73619/1/EVEOnline_MER_Jan2018.zip",
+      "everef": "https://data.everef.net/ccp/mer/2018/EVEOnline_MER_Jan2018.zip"
+    }
+  },
+  "2017": {
+    "12": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-december-2017",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-december-2017/48814",
+      "data": "https://content.eveonline.com/www/newssystem/media/73589/1/EVEOnline_MER_Dec2017.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Dec2017.zip"
+    },
+    "11": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-november-2017",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-november-2017/45118",
+      "data": "https://content.eveonline.com/www/newssystem/media/73542/1/EVEOnline_MER_Nov2017.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Nov2017.zip"
+    },
+    "10": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2017",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-october-2017/37847",
+      "data": "https://content.eveonline.com/www/newssystem/media/73479/1/EVEOnline_MER_Oct2017.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Oct2017.zip"
+    },
+    "09": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-september-2017",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-september-2017/28909",
+      "data": "https://cdn1.eveonline.com/community/MER/EVEOnline_MER_Sep2017.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Sep2017.zip"
+    },
+    "08": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-august-2017",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-august-2017/22714",
+      "data": "https://cdn1.eveonline.com/community/MER/EVEOnline_MER_Aug17.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Aug2017.zip"
+    },
+    "07": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-july-2017",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-july-2017/17015",
+      "data": "https://cdn1.eveonline.com/community/MER/EVEOnline_MER_Jul2017.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Jul2017.zip"
+    },
+    "06": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-june-2016",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-june-2017/8607",
+      "data": "https://content.eveonline.com/www/newssystem/media/70401/1/EVEOnline_MER_June2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Jun2017.zip"
+    },
+    "05": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-may-2017",
+      "forum": "https://forums-archive.eveonline.com/topic/521611/",
+      "data": "https://cdn1.eveonline.com/community/MER/EVEOnline_MER_May2017.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_May2017.zip"
+    },
+    "04": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-april-2017",
+      "forum": "https://forums-archive.eveonline.com/topic/518782/",
+      "data": "https://content.eveonline.com/www/newssystem/media/72084/1/EVEOnline_MER_Apr2017.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Apr2017.zip"
+    },
+    "03": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-march-2017",
+      "forum": "https://forums-archive.eveonline.com/topic/517572/",
+      "data": "https://cdn1.eveonline.com/community/MER/EVEOnline_MER_Mar2017.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Mar2017.zip"
+    },
+    "02": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-february-2017",
+      "forum": "https://forums-archive.eveonline.com/topic/513261/",
+      "data": "https://cdn1.eveonline.com/community/MER/EVEOnline_MER_Feb2017.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Feb2017.zip"
+    },
+    "01": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-january-2017",
+      "forum": "https://forums-archive.eveonline.com/topic/510695/",
+      "data": "https://cdn1.eveonline.com/community/MER/EVEOnline_MER_Jan2017.zip",
+      "everef": "https://data.everef.net/ccp/mer/2017/EVEOnline_MER_Jan2017.zip"
+    }
+  },
+  "2016": {
+    "12": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-december-2016",
+      "forum": "https://forums-archive.eveonline.com/topic/506509/",
+      "data": "https://content.eveonline.com/www/newssystem/media/71808/1/EVEOnline_MER_Dec2016_v1.1.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_Dec2016_v1.1.zip"
+    },
+    "11": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-november-2016",
+      "forum": "https://forums-archive.eveonline.com/topic/502493/",
+      "data": "https://content.eveonline.com/www/newssystem/media/70766/1/EVEOnline_MER_Nov2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_Nov2016.zip"
+    },
+    "10": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2016",
+      "forum": "https://forums-archive.eveonline.com/topic/498753/",
+      "data": "https://content.eveonline.com/www/newssystem/media/70687/1/EVEOnline_MER_Oct2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_Oct2016.zip"
+    },
+    "09": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-sept-2016",
+      "forum": "https://forums-archive.eveonline.com/topic/494939/",
+      "data": "https://content.eveonline.com/www/newssystem/media/70577/1/EVEOnline_MER_Sep2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_Sep2016.zip"
+    },
+    "08": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-august-2016",
+      "forum": "https://forums-archive.eveonline.com/topic/492640/",
+      "data": "https://content.eveonline.com/www/newssystem/media/70511/1/EVEOnline_MER_Aug2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_Aug2016.zip"
+    },
+    "07": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-july-2016",
+      "forum": "https://forums-archive.eveonline.com/topic/489435/",
+      "data": "https://content.eveonline.com/www/newssystem/media/70454/1/EVEOnline_MER_July2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_July2016.zip"
+    },
+    "06": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-june-2016",
+      "forum": "https://forums-archive.eveonline.com/topic/486947/",
+      "data": "https://content.eveonline.com/www/newssystem/media/70401/1/EVEOnline_MER_June2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_June2016.zip"
+    },
+    "05": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-may-2016",
+      "forum": "https://forums-archive.eveonline.com/topic/484190/",
+      "data": "https://content.eveonline.com/www/newssystem/media/70343/1/EVEOnline_MER_May2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_May2016.zip"
+    },
+    "04": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-april-2016",
+      "forum": "https://forums-archive.eveonline.com/topic/479976/",
+      "data": "https://content.eveonline.com/www/newssystem/media/70258/1/EVEOnline_MER_Apr2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_Apr2016.zip"
+    },
+    "03": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-march-2016",
+      "forum": "https://forums-archive.eveonline.com/topic/475737/",
+      "data": "https://content.eveonline.com/www/newssystem/media/70162/1/EVEOnline_MER_Mar2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_Mar2016.zip"
+    },
+    "02": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-february-2016",
+      "forum": "https://forums-archive.eveonline.com/message/6376400",
+      "data": "https://cdn1.eveonline.com/community/quant/EVEOnline_MER_Feb2016.zip",
+      "everef": "https://data.everef.net/ccp/mer/2016/EVEOnline_MER_Feb2016.zip"
+    }
+  }
+}
