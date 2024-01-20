@@ -4,13 +4,13 @@
       "news": "https://www.eveonline.com/news/view/monthly-economic-report-december-2023",
       "forum": "https://forums.eveonline.com/t/monthly-economic-report-december-2023/435005",
       "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Dec2023.zip",
-      "everef": "Missing"
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Dec2023.zip"
     },
     "11": {
       "news": "https://www.eveonline.com/news/view/monthly-economic-report-november-2023",
       "forum": "https://forums.eveonline.com/t/monthly-economic-report-november-2023/431204",
       "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Nov2023.zip",
-      "everef": "Missing"
+      "everef": "https://data.everef.net/ccp/mer/2023/EVEOnline_MER_Nov2023.zip"
     },
     "10": {
       "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2023",
