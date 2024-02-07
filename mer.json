@@ -1,4 +1,12 @@
 {
+  "2024": {
+    "01": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-january-2024",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-january-2024/438812",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jan2024.zip",
+      "everef": ""
+    }
+  },
   "2023": {
     "12": {
       "news": "https://www.eveonline.com/news/view/monthly-economic-report-december-2023",
