@@ -32,11 +32,18 @@ for (const year of years) {
 
   for (const month of months) {
     const monthName = monthsMap[month];
+
+    let everefLink = jsonContent[year][month].everef;
+
+    if (everefLink === null) {
+      everefLink = "";
+    }
+
     markdown += `### ${monthName} ${year}\n`;
     markdown += `- News article: ${jsonContent[year][month].news}\n`;
     markdown += `- Forum post: ${jsonContent[year][month].forum}\n`;
     markdown += `- Data: ${jsonContent[year][month].data}\n`;
-    markdown += `- Everef Data Mirror: ${jsonContent[year][month].everef}\n\n`;
+    markdown += `- Everef Data Mirror: ${everefLink}\n\n`;
   }
 }
 
