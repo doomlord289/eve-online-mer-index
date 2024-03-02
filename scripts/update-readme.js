@@ -36,7 +36,7 @@ for (const year of years) {
     let everefLink = jsonContent[year][month].everef;
 
     if (everefLink === null) {
-      everefLink = "";
+      everefLink = "<missing>";
     }
 
     markdown += `### ${monthName} ${year}\n`;
