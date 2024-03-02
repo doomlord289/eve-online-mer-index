@@ -10,7 +10,7 @@ This README is generated using data in `mer.json`, which is manually updated. If
 - News article: https://www.eveonline.com/news/view/monthly-economic-report-january-2024
 - Forum post: https://forums.eveonline.com/t/monthly-economic-report-january-2024/438812
 - Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jan2024.zip
-- Everef Data Mirror: <missing>
+- Everef Data Mirror: &lt;missing>
 
 ## 2023
 
