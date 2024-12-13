@@ -1,10 +1,16 @@
 {
   "2024": {
+    "11": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-november-2024",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-november-2024/470982",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Nov2024.zip",
+      "everef": "https://data.everef.net/ccp/mer/2024/EVEOnline_MER_Nov2024.zip"
+    },
     "10": {
       "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2024",
       "forum": "https://forums.eveonline.com/t/monthly-economic-report-october-2024/467252",
       "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Oct2024.zip",
-      "everef": null
+      "everef": "https://data.everef.net/ccp/mer/2024/EVEOnline_MER_Oct2024.zip"
     },
     "09": {
       "news": "https://www.eveonline.com/news/view/monthly-economic-report-september-2024",
