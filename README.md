@@ -4,7 +4,21 @@ An index of Eve Online's Monthly Economic Reports (MERs).
 
 This README is generated using data in `mer.json`, which is manually updated. If the a link is broken, incorrect, or missing, please open an issue describing the problem. New MERs will be added ASAP.
 
+## 2025
+
+### January 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-january-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-january-2025/476413
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jan2025.zip
+- Everef Data Mirror: 
+
 ## 2024
+
+### December 2024
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-december-2024
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-december-2024/473546
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Dec2024.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2024/EVEOnline_MER_Dec2024.zip
 
 ### November 2024
 - News article: https://www.eveonline.com/news/view/monthly-economic-report-november-2024
