@@ -4,7 +4,105 @@ An index of Eve Online's Monthly Economic Reports (MERs).
 
 This README is generated using data in `mer.json`, which is manually updated. If the a link is broken, incorrect, or missing, please open an issue describing the problem. New MERs will be added ASAP.
 
+## 2026
+
+### June 2026
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-june-2026
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-june-2026/514605
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202606.zip
+- Everef Data Mirror: &lt;missing>
+
+### May 2026
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-may-2026
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-may-2026/512928
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202605.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2026/EVEOnline_MER_202605.zip
+
+### April 2026
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-april-2026
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-april-2026/511406
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202604.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2026/EVEOnline_MER_202604.zip
+
+### March 2026
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-march-2026
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-march-2026/509891
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202603.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2026/EVEOnline_MER_202603.zip
+
+### February 2026
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-february-2026
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-february-2026/507779
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202602.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2026/EVEOnline_MER_202602.zip
+
+### January 2026
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-january-2026
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-january-2026/506394
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202601.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2026/EVEOnline_MER_202601.zip
+
 ## 2025
+
+### December 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-december-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-december-2025/504563
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202512.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2025/EVEOnline_MER_202512.zip
+
+### November 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-november-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-november-2025/502625
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202511.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2025/EVEOnline_MER_202511.zip
+
+### October 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-october-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-october-2025/500340
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202510.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2025/EVEOnline_MER_202510.zip
+
+### September 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-september-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-september-2025/499210
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202509.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2025/EVEOnline_MER_202509.zip
+
+### August 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-august-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-august-2025/497419
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202508.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2025/EVEOnline_MER_202508.zip
+
+### July 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-july-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-july-2025/495967
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jul2025.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2025/EVEOnline_MER_Jul2025.zip
+
+### June 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-june-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-june-2025/492752
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Jun2025.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2025/EVEOnline_MER_Jun2025.zip
+
+### May 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-may-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-may-2025/488566
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_May2025.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2025/EVEOnline_MER_May2025.zip
+
+### April 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-april-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-april-2025/485694
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Apr2025.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2025/EVEOnline_MER_Apr2025.zip
+
+### March 2025
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-march-2025
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-march-2025/482458
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_Mar2025.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2025/EVEOnline_MER_Mar2025.zip
 
 ### February 2025
 - News article: https://www.eveonline.com/news/view/monthly-economic-report-february-2025
