@@ -1,0 +1,135 @@
+name: Monitor EVE Online RSS – Monthly Economic Reports
+
+on:
+  schedule:
+    - cron: '30 11 * * *'  # 09:00 UTC daily
+  workflow_dispatch:       # also runnable manually from the Actions tab
+
+jobs:
+  rss-to-issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write        # required to create issues
+
+    steps:
+      - name: Parse feed and open issue if new
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PYEOF'
+          import html
+          import json
+          import os
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from html.parser import HTMLParser
+
+          # ── configuration ─────────────────────────────────────────────────────────
+          RSS_URL      = "https://www.eveonline.com/rss"
+          TITLE_PREFIX = "Monthly Economic Report"
+          REPO         = os.environ["GITHUB_REPOSITORY"]  # owner/repo, set by Actions
+          TOKEN        = os.environ["GH_TOKEN"]
+
+          # ── helpers ───────────────────────────────────────────────────────────────
+          class ATagParser(HTMLParser):
+              """Collects every href attribute from <a> tags."""
+              def __init__(self):
+                  super().__init__()
+                  self.hrefs = []
+
+              def handle_starttag(self, tag, attrs):
+                  if tag == "a":
+                      for name, val in attrs:
+                          if name == "href" and val:
+                              self.hrefs.append(val)
+
+          def extract_hrefs(raw: str) -> list:
+              """Return all href values from <a> tags in a raw HTML/CDATA string."""
+              # html.unescape handles feeds that entity-encode their description HTML
+              p = ATagParser()
+              p.feed(html.unescape(raw))
+              return p.hrefs
+
+          def gh(method: str, path: str, body=None) -> dict:
+              """Minimal GitHub REST v3 helper (no third-party deps)."""
+              url  = f"https://api.github.com/repos/{REPO}/{path}"
+              data = json.dumps(body).encode() if body else None
+              req  = urllib.request.Request(
+                  url, data=data, method=method,
+                  headers={
+                      "Authorization":        f"Bearer {TOKEN}",
+                      "Accept":               "application/vnd.github+json",
+                      "Content-Type":         "application/json",
+                      "X-GitHub-Api-Version": "2022-11-28",
+                  },
+              )
+              with urllib.request.urlopen(req) as r:
+                  return json.loads(r.read())
+
+          def existing_issue_titles() -> set:
+              """Fetch every issue title (open + closed) to prevent duplicates."""
+              titles, page = set(), 1
+              while True:
+                  batch = gh("GET", f"issues?state=all&per_page=100&page={page}")
+                  if not batch:
+                      break
+                  titles.update(i["title"] for i in batch)
+                  if len(batch) < 100:
+                      break
+                  page += 1
+              return titles
+
+          # ── fetch & parse feed ────────────────────────────────────────────────────
+          print(f"Fetching {RSS_URL} …")
+          req = urllib.request.Request(
+              RSS_URL, headers={"User-Agent": "github-actions-rss-monitor/1.0"}
+          )
+          with urllib.request.urlopen(req) as r:
+              root = ET.fromstring(r.read())
+
+          channel = root.find("channel") or root
+          items   = channel.findall("item")
+          print(f"Feed contains {len(items)} item(s)")
+
+          existing = existing_issue_titles()
+
+          for item in items:
+              # ── title check ───────────────────────────────────────────────────────
+              title_el = item.find("title")
+              if title_el is None:
+                  continue
+              feed_title = (title_el.text or "").strip()
+              if not feed_title.startswith(TITLE_PREFIX):
+                  continue
+
+              issue_title = f"Add {feed_title}"
+
+              if issue_title in existing:
+                  print(f"  skip – issue already exists: {issue_title!r}")
+                  continue
+
+              # ── link ──────────────────────────────────────────────────────────────
+              # RSS 2.0 uses bare <link>; fall back to <guid> when link is absent
+              link_el = item.find("link")
+              link    = (link_el.text or "").strip() if link_el is not None else ""
+              if not link:
+                  guid_el = item.find("guid")
+                  link    = (guid_el.text or "").strip() if guid_el is not None else ""
+
+              # ── hrefs from description ────────────────────────────────────────────
+              desc_el  = item.find("description")
+              desc_raw = (desc_el.text or "") if desc_el is not None else ""
+              hrefs    = extract_hrefs(desc_raw)
+
+              # ── build issue body ──────────────────────────────────────────────────
+              body_lines = [f"**Feed item:** {link}", ""]
+              if hrefs:
+                  body_lines += ["**Links found in description:**", ""]
+                  body_lines += [f"- {h}" for h in hrefs]
+              body = "\n".join(body_lines)
+
+              result = gh("POST", "issues", {"title": issue_title, "body": body})
+              print(f"  created issue #{result['number']}: {result['html_url']}")
+
+          print("Done.")
+          PYEOF
