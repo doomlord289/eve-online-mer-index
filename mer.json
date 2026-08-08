@@ -1,5 +1,11 @@
 {
   "2026": {
+    "07": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-july-2026",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-july-2026/516026",
+      "data": "https://monthly-economic-report.s3.eu-west-1.amazonaws.com/EVEOnline_MER_202607.zip",
+      "everef": null
+    },
     "06": {
       "news": "https://www.eveonline.com/news/view/monthly-economic-report-june-2026",
       "forum": "https://forums.eveonline.com/t/monthly-economic-report-june-2026/514605",
