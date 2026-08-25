@@ -2,7 +2,7 @@ name: Monitor EVE Online RSS – Monthly Economic Reports
 
 on:
   schedule:
-    - cron: '30 11 * * *'  # 09:00 UTC daily
+    - cron: '30 12 * * *'  # 12:30 UTC daily
   workflow_dispatch:       # also runnable manually from the Actions tab
 
 jobs:
