@@ -6,6 +6,12 @@ This README is generated using data in `mer.json`, which is manually updated. If
 
 ## 2026
 
+### August 2026
+- News article: https://www.eveonline.com/news/view/monthly-economic-report-august-2026
+- Forum post: https://forums.eveonline.com/t/monthly-economic-report-august-2026/517992
+- Data: https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202608.zip
+- Everef Data Mirror: https://data.everef.net/ccp/mer/2026/EVEOnline_MER_202608.zip
+
 ### July 2026
 - News article: https://www.eveonline.com/news/view/monthly-economic-report-july-2026
 - Forum post: https://forums.eveonline.com/t/monthly-economic-report-july-2026/516026
