@@ -1,5 +1,11 @@
 {
   "2026": {
+    "08": {
+      "news": "https://www.eveonline.com/news/view/monthly-economic-report-august-2026",
+      "forum": "https://forums.eveonline.com/t/monthly-economic-report-august-2026/517992",
+      "data": "https://web.ccpgamescdn.com/aws/community/EVEOnline_MER_202608.zip",
+      "everef": "https://data.everef.net/ccp/mer/2026/EVEOnline_MER_202608.zip"
+    },
     "07": {
       "news": "https://www.eveonline.com/news/view/monthly-economic-report-july-2026",
       "forum": "https://forums.eveonline.com/t/monthly-economic-report-july-2026/516026",
