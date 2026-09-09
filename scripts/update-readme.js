@@ -6,7 +6,7 @@ const readmePath = "README.md";
 const jsonContent = JSON.parse(fs.readFileSync(jsonPath, "utf8"));
 
 let markdown =
-  "# Eve Online Monthly Economic Reports\n\nAn index of Eve Online's Monthly Economic Reports (MERs).\n\nThis README is generated using data in `mer.json`, which is manually updated. If the a link is broken, incorrect, or missing, please open an issue describing the problem. New MERs will be added ASAP.\n\n";
+  "# Eve Online Monthly Economic Reports\n\nAn index of Eve Online's Monthly Economic Reports (MERs).\n\nThis README is generated using data in `mer.json`, which is manually updated. If a link is broken, incorrect, or missing, please open an issue describing the problem. New MERs will be added ASAP.\n\n";
 
 const monthsMap = {
   "01": "January",
