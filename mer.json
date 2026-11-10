@@ -4,7 +4,7 @@
       "news": "https://www.eveonline.com/news/view/monthly-economic-report-october-2026",
       "forum": "https://forums.eveonline.com/t/monthly-economic-report-october-2026/521793",
       "data": "https://monthly-economic-report.s3.eu-west-1.amazonaws.com/EVEOnline_MER_202610.zip",
-      "everef": null
+      "everef": "https://data.everef.net/ccp/mer/2026/EVEOnline_MER_202610.zip"
     },
     "09": {
       "news": "https://www.eveonline.com/news/view/monthly-economic-report-september-2026",
