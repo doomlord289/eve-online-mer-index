@@ -631,7 +631,7 @@ This README is generated using data in `mer.json`, which is manually updated. If
 ### May 2018
 - News article: https://www.eveonline.com/news/view/monthly-economic-report-may-2018
 - Forum post: https://forums.eveonline.com/t/monthly-economic-report-may-2018/82487
-- Data: https://www.eveonline.com/news/view/web.ccpgamescdn.com/newssystem/media/73619/1/EVEOnline_MER_May2018.zip
+- Data: https://web.ccpgamescdn.com/newssystem/media/73619/1/EVEOnline_MER_May2018.zip
 - Everef Data Mirror: https://data.everef.net/ccp/mer/2018/EVEOnline_MER_May2018.zip
 
 ### April 2018
